@@ -19,10 +19,5 @@
     <path
         android:fillColor="#1A73E8"
         android:pathData="M34,60 L55,60 L55,64 L34,64Z"/>
-    <text
-        android:x="54"
-        android:y="75"
-        android:fillColor="#1A73E8"
-        android:textSize="14"
-        android:textStyle="bold">₹</text>
+
 </vector>
